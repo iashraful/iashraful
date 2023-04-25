@@ -10,7 +10,7 @@
 
 ##### BIO
 
-- 🏢 I'm currently working at **Vivasoft Ltd.**
+- 🏢 I'm currently working at **[bKash Limited.](https://www.bkash.com)** as **Assistant Lead Engineer**
 - ⚙️ I use daily: `Python`, `FastAPI`,  `Django`, `Javascript`, `VueJS` 
 - 🌍 I'm mostly active within the **Python Community**
 - 🌱 Learning all about **Open Source**
