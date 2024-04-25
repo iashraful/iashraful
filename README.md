@@ -13,7 +13,7 @@
 - 🏢 I'm currently working at **[bKash Limited.](https://www.bkash.com)** as **Assistant Lead Engineer**
 - ⚙️ I use daily: `Python`, `FastAPI`,  `Django`, `Javascript`, `VueJS` 
 - 🌍 I'm mostly active within the **Python Community**
-- 🌱 Learning all about **Open Source**
-- 💬 Ping me about **API**, **System Designing**, **Development**,
+- 🌱 Learning **Rust**
+- 💬 Ping me about **Python**, **Rust**, **System Designing**, **API Development**,
 - 📫 Reach me: [twitter.com/_ashraful](https://twitter.com/_ashraful)
 - ⚡️ I am a motorbike lover, traveler
